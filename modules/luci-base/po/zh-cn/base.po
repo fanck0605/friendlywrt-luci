@@ -247,6 +247,12 @@ msgstr "额外的 HOSTS 文件"
 msgid "Additional servers file"
 msgstr "额外的 SERVERS 文件"
 
+msgid "Filter IPv6 Records"
+msgstr "过滤 IPv6 记录"
+
+msgid "Filter IPv6(AAAA) Records during DNS resolution"
+msgstr "在域名解析时，过滤 IPv6(AAAA) 记录"
+
 msgid "Address"
 msgstr "地址"
 
